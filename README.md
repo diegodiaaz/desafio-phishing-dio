@@ -8,7 +8,7 @@
 ### Configurando o Phishing no Kali Linux
 
 - Acessando root: ``` sudo su ```
-![Alt text](./img/acessando_root_mode)
+![Alt text](img/acessando_root_mode)
 
 - Iniciando o setoolkit: ``` setoolkit ```
 ![Alt text](./img/inicindo_setoolkit_1)
